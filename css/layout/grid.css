@@ -1,0 +1,41 @@
+.cep-field {grid-area: buscarcep;}
+.weather-info {grid-area: weather-info;}
+.pokemon-info {grid-area: pokemon-info;}
+.footer-nav {grid-area: footer-nav;}
+.contact {grid-area: contact;}
+.page-footer p {grid-area: copyright;}
+
+.content {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: 
+    "buscarcep buscarcep"
+    "weather-info pokemon-info"
+    "contact contact";
+    margin: 30px 0;
+}
+
+.choose-pokemon {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    grid-template-columns: 2fr 1fr;
+    margin: 30px 0;
+}
+
+.pokemon-info-field {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    justify-items: center;
+}
+
+.information {
+    align-self: center;
+}
+
+.information h3 {
+    margin-bottom: 20px;
+    justify-self: center;
+}

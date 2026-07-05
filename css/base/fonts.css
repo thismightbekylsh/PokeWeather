@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cherry-Bomb';
+    src: url(../../assets/fonts/CherryBombOne-Regular.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dyna-Puff';
+    src: url(../../assets/fonts/DynaPuff-VariableFont_wdth\,wght.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

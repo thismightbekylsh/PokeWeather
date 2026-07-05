@@ -1,0 +1,28 @@
+.cep-field {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.form {
+    display: flex;
+    gap: 6px;
+}
+.form input{
+    outline: none;
+    border-radius: var(--radius);
+    padding: 10px;
+    border: 1px solid var(--secondary-color);
+    color: var(--font-color);
+    font-family: 'Cherry-Bomb';
+}
+
+.form input:focus {
+    border-color: var(--primary-color);
+}
+
+.form-choose input {
+    padding: 5px;
+}

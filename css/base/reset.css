@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 16px;
+    background: var(--body-background);
+    color: var(--font-color);
+    font-family: 'Dyna-Puff';
+}
+
+img {max-width: 100%; display: block;}
+
+button {font-family: 'Cherry-Bomb';}

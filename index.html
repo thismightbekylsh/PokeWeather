@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <script src="js/components/Site-header.js" defer></script>
+    <script src="js/components/Site-footer.js" defer></script>
+    <title>PokeWeather</title>
+</head>
+<body>
+    <site-header></site-header>
+
+    <main class="">
+
+        <section class="cep-field">
+            <form class="form">
+                <input type="text" placeholder="Digite seu CEP">
+                <button class="btn" type="submit">Enviar</button>
+            </form>
+        </section>
+
+        <article class="content">
+            <aside class="weather-info box">
+                <blockquote>Nem a tempestade mais forte dura para sempre. Recarregue suas energias como um Pikachu e prepare-se para brilhar! Temos que pegar esse dia!</blockquote>
+
+                <section class="information">
+                    <ul>
+                        <li><span >Temperatura</span><span id="weather-var-temp">°C</span></li>
+                        <li><span >Sensação térmica</span><span id="weather-var-feeltemp">°C</span></li>
+                        <li><span >Vento</span><span id="weather-var-wind">km/h</span></li>
+                        <li><span >Chuva</span><span id="weather-var-rain">% mm</span></li>
+                    </ul>
+                </section>
+
+                <figure class="weather-icon">
+                        <img src="" alt="Condição do clima">
+                        <figcaption>Teste</figcaption>
+                    </figure>
+            </aside>
+
+            <section class="pokemon-info box">
+                <img src="assets/images/pokemon-background.jpg" alt="background-pokemon">
+
+                <p id="day-info"></p>
+
+                <figure class="pokemon-types"></figure>
+
+                <section class="daily-pokemon">
+                    <h3>Pokemon do dia</h3>
+                    <img id="daily-pokemon-image" src="" alt="Pokemon do dia">
+                </section>
+            </section>
+        </article>
+
+        <article class="choose-pokemon">
+            <section class="box pokemon-info-field">
+                <div class="pokemon-description">
+                    <h3>Pokemon Name</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing 
+                        elit. Quo excepturi officia placeat veritatis 
+                        voluptates ratione nobis nihil debitis commodi nemo,
+                        eius animi, vitae officiis tempore praesentium! 
+                        Aliquam sit dolores dignissimos.
+                    </p>
+
+                    <h3>Tipo</h3>
+
+                    <figure>
+                        <img src="">
+                        <img src="">
+                    </figure>
+                </div>
+                <div class="information">
+                    <h3>Clima preferido</h3>
+                    <ul>
+                        <li><span >Temperatura</span><span id="pokemon-var-temp">°C</span></li>
+                        <li><span >Sensação térmica</span><span id="pokemon-var-feeltemp">°C</span></li>
+                        <li><span >Vento</span><span id="pokemon-var-wind">km/h</span></li>
+                        <li><span >Chuva</span><span id="pokemon-var-rain">% mm</span></li>
+                    </ul>
+                </div>
+            </section>
+
+            
+            <aside class="box choose">
+                <h3>Pokedex Climática</h3>
+                <figure class="pokemon-img">
+                    <img src ="/assets/images/blank-pokemon.png" alt="pokemon">
+                    <figcaption></figcaption>
+                </figure>
+
+                <search>
+                    <form class="form form-choose">
+                        <input type="text" placeholder="ex: Eevee">
+                        <button class="btn">Buscar</button>
+                    </form>
+                </search>
+
+            </aside>
+        </article>
+    </main>
+
+    <site-footer></site-footer>
+</body>
+</html>

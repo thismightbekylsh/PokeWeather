@@ -1,0 +1,42 @@
+.btn {
+    padding: 10px;
+    border-radius: var(--radius);
+    font-size: 19px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+.highlight {
+    background-color: var(--background);
+    color: var(--primary-color);
+    width: 80px;
+    border: 1px solid var(--primary-color);
+}
+
+.highlight:hover {
+    background-color: var(--primary-color);
+    color: var(--background);
+}
+
+.secondary {
+    border: none;
+    background-color: var(--background);
+    color: var(--primary-color);
+}
+
+.secondary:hover {
+    text-decoration: 1.5px underline;
+}
+
+.form .btn {
+    font-size: 16px;
+    width: 70px;
+    padding: 4px;
+    border: none;
+    background-color: var(--secondary-color);
+    color: var(--background);
+}
+
+.form .btn:hover {
+    background-color: var(--primary-color);
+}

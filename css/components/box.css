@@ -1,0 +1,81 @@
+.content {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 30px;
+}
+
+.weather-info {
+    position: sticky;
+    top: 20px;
+}
+
+.box {
+    background-color: var(--background);
+    border: 2px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: 12px;
+    font-size: 15px;
+    margin: 0 15px;
+}
+
+.box ul {
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.box li {
+    border-bottom: 2px solid var(--border-color);
+    padding: 8px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box blockquote {
+    border-left: 2px solid var(--border-color);
+    padding-left: 10px;
+    margin-bottom: 25px;
+}
+
+.weather-icon {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.weather-icon figcaption {
+    font-size: 12px;
+}
+
+.daily-pokemon {
+    margin: 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokemon-description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pokemon-description h3 {
+    margin-bottom: 20px;
+}
+
+.pokemon-description p {
+    margin-bottom: 20px;
+}
+
+.choose {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.choose img {
+    margin: 20px 0;
+    width: 200px;
+}
