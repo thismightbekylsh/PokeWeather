@@ -6,16 +6,17 @@
     <link rel="stylesheet" type="text/css" href="./css/main.css">
     <script src="js/components/Site-header.js" defer></script>
     <script src="js/components/Site-footer.js" defer></script>
+    <script type="module" src="js/pages/index.js"></script>
     <title>PokeWeather</title>
 </head>
 <body>
     <site-header></site-header>
 
-    <main class="">
+    <main>
 
         <section class="cep-field">
-            <form class="form">
-                <input type="text" placeholder="Digite seu CEP">
+            <form class="form" id="cep-form">
+                <input id="cep-input" type="text" placeholder="Digite seu CEP">
                 <button class="btn" type="submit">Enviar</button>
             </form>
         </section>
@@ -24,18 +25,20 @@
             <aside class="weather-info box">
                 <blockquote>Nem a tempestade mais forte dura para sempre. Recarregue suas energias como um Pikachu e prepare-se para brilhar! Temos que pegar esse dia!</blockquote>
 
-                <section class="information">
+                <section class="weather-variables">
+                    <h4 id="city-name"></h4>
+
                     <ul>
                         <li><span >Temperatura</span><span id="weather-var-temp">°C</span></li>
                         <li><span >Sensação térmica</span><span id="weather-var-feeltemp">°C</span></li>
                         <li><span >Vento</span><span id="weather-var-wind">km/h</span></li>
-                        <li><span >Chuva</span><span id="weather-var-rain">% mm</span></li>
+                        <li><span >Chuva</span><div><span id="weather-var-humidity">%</span> <span id="weather-var-precip">mm</span></div></li>
                     </ul>
                 </section>
 
                 <figure class="weather-icon">
-                        <img src="" alt="Condição do clima">
-                        <figcaption>Teste</figcaption>
+                        <img id="condition-icon" src="" alt="Condição do clima">
+                        <figcaption id="condition"></figcaption>
                     </figure>
             </aside>
 
@@ -71,7 +74,7 @@
                         <img src="">
                     </figure>
                 </div>
-                <div class="information">
+                <div class="pokemon-information">
                     <h3>Clima preferido</h3>
                     <ul>
                         <li><span >Temperatura</span><span id="pokemon-var-temp">°C</span></li>

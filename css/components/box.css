@@ -35,11 +35,22 @@
     margin-bottom: 25px;
 }
 
+.weather-variables {
+    display: flex;
+    flex-direction: column;
+}
+
+.weather-variables h4 {
+    align-self: center;
+    margin-bottom: 8px;
+}
+
 .weather-icon {
     display:flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    visibility: hidden;
 }
 
 .weather-icon figcaption {
