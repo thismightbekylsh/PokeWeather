@@ -11,8 +11,8 @@ class SiteHeader extends HTMLElement {
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Biomas</a></li>
-                    <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Contato</a></li>
+                    <li><a href="#About">Sobre</a></li>
+                    <li><a href="#Contact">Contato</a></li>
                 </ul>
             </nav>
 

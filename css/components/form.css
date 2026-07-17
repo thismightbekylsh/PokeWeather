@@ -23,6 +23,31 @@
     border-color: var(--primary-color);
 }
 
-.form-choose input {
+.contact .form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact .form h2 {
+    align-self: center;
+}
+
+.contact label {
+    margin-top: 15px;
+}
+
+.contact textarea {
+    outline: none;
     padding: 5px;
+    font-family: "Dyna-Puff";
+    font-size: 11px;
+    resize: none;
+    height: 60px;
+    border: 1px solid var(--secondary-color);
+    color: var(--font-color);
+    border-radius: var(--radius);
+}
+
+.contact textarea:focus {
+    border-color: var(--primary-color);
 }

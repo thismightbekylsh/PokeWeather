@@ -40,3 +40,9 @@
 .form .btn:hover {
     background-color: var(--primary-color);
 }
+
+.contact .btn {
+    align-self: center;
+    margin-top: 10px;
+    width: 100%;
+}
