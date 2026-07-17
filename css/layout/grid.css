@@ -20,3 +20,34 @@
     grid-template-columns: 2fr 1fr;
     align-items: start;
 }
+
+@media (max-width: 768px) {
+
+    .logo { grid-area: logo;}
+    .user { grid-area: user;}
+    .nav-header { grid-area: nav}
+
+    .content {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "buscarcep"
+        "weather-info"
+        "pokemon-info"
+        "contact";
+        margin: 30px 10px;
+    }
+
+    .pokeweather-utils {
+        grid-template-columns: 1fr;
+        margin: 30px 10px;
+    }
+
+    .page-header {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-areas: 
+        "logo user"
+        "nav nav";
+        justify-items: center;
+    }
+}

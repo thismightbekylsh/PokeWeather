@@ -112,3 +112,15 @@
 .contact h2 {
     margin: 0;
 }
+
+@media (max-width: 768px) {
+
+    .weather-info {
+        position: static;
+        margin-bottom: 30px;
+    }
+
+    .about {
+        margin-bottom: 30px;
+    }
+}

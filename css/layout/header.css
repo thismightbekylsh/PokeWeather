@@ -58,3 +58,21 @@
     display: flex;
     gap: 10px;
 }
+
+@media (max-width: 768px) {
+    .page-header .logo h2 {
+        font-size: 20px;
+    }
+
+    .page-header .logo img {
+        width: 50px;
+    }
+
+    .nav-header ul {
+        font-size: 15px;
+    }
+
+    .user {
+        gap: 0px;
+    }
+}

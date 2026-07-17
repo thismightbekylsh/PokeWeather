@@ -46,3 +46,16 @@
     margin-top: 10px;
     width: 100%;
 }
+
+@media (max-width: 768px) {
+    .highlight {
+        font-size: 14px;
+        width: 70px;
+    }
+
+    .secondary {
+        font-size: 14px;
+        width: 80px;
+    }
+    }
+}

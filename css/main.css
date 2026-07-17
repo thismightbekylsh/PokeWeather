@@ -1,5 +1,5 @@
-@import "layout/grid.css";
 @import "layout/header.css";
+@import "layout/grid.css";
 @import "layout/footer.css";
 @import "base/reset.css";
 @import "base/variables.css";
