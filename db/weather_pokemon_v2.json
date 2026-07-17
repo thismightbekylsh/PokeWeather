@@ -1,0 +1,246 @@
+{
+  "Ensolarado": {
+    "pokemon": "Solgaleo",
+    "descricao": "O sol brilha com uma intensidade magnífica no céu aberto, aquecendo todo o ambiente. É um dia glorioso que parece abençoado pelo poder radiante de Solgaleo."
+  },
+  "Céu limpo": {
+    "pokemon": "Espeon",
+    "descricao": "O céu está perfeitamente limpo e azul, sem uma única nuvem à vista. Uma brisa suave sopra pelos campos, ideal para Pokémons sensíveis como Espeon absorverem a luz do sol."
+  },
+  "Parcialmente nublado": {
+    "pokemon": "Swablu",
+    "descricao": "O céu apresenta uma mistura suave de azul e nuvens brancas e macias. O dia está agradável e tranquilo, perfeito para observar o voo calmo de Swablu entre as correntes de ar."
+  },
+  "Nublado": {
+    "pokemon": "Altaria",
+    "descricao": "Nuvens cinzentas cobrem boa parte do céu, deixando o dia com uma iluminação suave e difusa. A atmosfera calma é frequentemente embalada pelo cantar distante de Altaria nas alturas."
+  },
+  "Encoberto": {
+    "pokemon": "Goomy",
+    "descricao": "O dia está completamente encoberto por nuvens baixas, criando uma umidade constante no ar. O ambiente úmido e fresco é perfeito para Pokémons que detestam o sol forte, como Goomy."
+  },
+  "Neblina seca": {
+    "pokemon": "Gastly",
+    "descricao": "Uma neblina seca e misteriosa paira rente ao chão, reduzindo a visibilidade nos caminhos mais desertos. É uma atmosfera enigmática e sombria, onde a presença de Gastly se faz notar."
+  },
+  "Neblina de poeira": {
+    "pokemon": "Sandslash",
+    "descricao": "Uma poeira fina e persistente é levantada pelo vento, reduzindo a visibilidade e cobrindo o solo com terra seca. O clima desértico é perfeito para a escavação ágil de Sandslash."
+  },
+  "Poeira levantada": {
+    "pokemon": "Sandslash",
+    "descricao": "Uma poeira fina e persistente é levantada pelo vento, reduzindo a visibilidade e cobrindo o solo com terra seca. O clima desértico é perfeito para a escavação ágil de Sandslash."
+  },
+  "Tempestade de poeira": {
+    "pokemon": "Sandslash",
+    "descricao": "Uma poeira fina e persistente é levantada pelo vento, reduzindo a visibilidade e cobrindo o solo com terra seca. O clima desértico é perfeito para a escavação ágil de Sandslash."
+  },
+  "Tempestade de areia": {
+    "pokemon": "Tyranitar",
+    "descricao": "Uma violenta tempestade de areia e poeira bloqueia a luz do sol, arrastando grãos de areia em alta velocidade e tornando o ar sufocante. O cenário desértico reflete o caos de Tyranitar."
+  },
+  "Tempestade de areia severa": {
+    "pokemon": "Tyranitar",
+    "descricao": "Uma violenta tempestade de areia e poeira bloqueia a luz do sol, arrastando grãos de areia em alta velocidade e tornando o ar sufocante. O cenário desértico reflete o caos de Tyranitar."
+  },
+  "Névoa": {
+    "pokemon": "Smeargle",
+    "descricao": "Uma névoa leve e úmida paira sobre a paisagem, suavizando as cores ao redor. O cenário parece uma tela de pintura em branco, inspirando artistas silvestres como Smeargle."
+  },
+  "Fumaça": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Névoa de fumaça": {
+    "pokemon": "Smeargle",
+    "descricao": "Uma névoa leve e úmida paira sobre a paisagem, suavizando as cores ao redor. O cenário parece uma tela de pintura em branco, inspirando artistas silvestres como Smeargle."
+  },
+  "Smog": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Smog severo": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Poeira do Saara": {
+    "pokemon": "Sandslash",
+    "descricao": "Uma poeira fina e persistente é levantada pelo vento, reduzindo a visibilidade e cobrindo o solo com terra seca. O clima desértico é perfeito para a escavação ágil de Sandslash."
+  },
+  "Poeira": {
+    "pokemon": "Sandslash",
+    "descricao": "Uma poeira fina e persistente é levantada pelo vento, reduzindo a visibilidade e cobrindo o solo com terra seca. O clima desértico é perfeito para a escavação ágil de Sandslash."
+  },
+  "Chuva irregular nas proximidades": {
+    "pokemon": "Lotad",
+    "descricao": "Uma chuva irregular começa a cair em intervalos imprevisíveis, umedecendo as folhas e a terra. É um clima dinâmico e revigorante, ideal para avistar Lotad saltitando pelas poças de água."
+  },
+  "Neve irregular nas proximidades": {
+    "pokemon": "Snom",
+    "descricao": "Pequenos flocos de neve caem de forma esparsa e irregular, cobrindo o chão com uma fina camada branca. O ar está gelado e silencioso, no clima perfeito para Snom se alimentar no solo."
+  },
+  "Chuva com neve irregular nas proximidades": {
+    "pokemon": "Snom",
+    "descricao": "Pequenos flocos de neve caem de forma esparsa e irregular, cobrindo o chão com uma fina camada branca. O ar está gelado e silencioso, no clima perfeito para Snom se alimentar no solo."
+  },
+  "Garoa congelante irregular nas proximidades": {
+    "pokemon": "Shellder",
+    "descricao": "Uma garoa fina e extremamente fria cai nas proximidades, congelando ao tocar as superfícies mais expostas. A temperatura baixa faz com que Shellder se feche firme em sua concha nas encostas."
+  },
+  "Trovoadas nas proximidades": {
+    "pokemon": "Zapdos",
+    "descricao": "Uma violenta tempestade de chuva forte com relâmpagos e trovões ensurdecedores rasga o céu escuro. A atmosfera está carregada de pura energia elétrica, como se Zapdos estivesse sobrevoando as nuvens."
+  },
+  "Neve com vento": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Nevasca": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Nevoeiro": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Nevoeiro gelado": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Garoa fraca irregular": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Garoa fraca": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Garoa congelante": {
+    "pokemon": "Glaceon",
+    "descricao": "A umidade da garoa congela instantaneamente ao tocar o solo, cobrindo as calçadas e galhos com uma fina e perigosa película de gelo brilhante, em uma paisagem digna do toque de Glaceon."
+  },
+  "Garoa congelante forte": {
+    "pokemon": "Glaceon",
+    "descricao": "A umidade da garoa congela instantaneamente ao tocar o solo, cobrindo as calçadas e galhos com uma fina e perigosa película de gelo brilhante, em uma paisagem digna do toque de Glaceon."
+  },
+  "Chuva fraca irregular": {
+    "pokemon": "Squirtle",
+    "descricao": "Uma chuva fina e constante cai suavemente sobre a grama, refrescando o calor e limpando a atmosfera. É o tipo de dia que renova as energias e convida Squirtle para brincar nas poças d'água."
+  },
+  "Chuva fraca": {
+    "pokemon": "Squirtle",
+    "descricao": "Uma chuva fina e constante cai suavemente sobre a grama, refrescando o calor e limpando a atmosfera. É o tipo de dia que renova as energias e convida Squirtle para brincar nas poças d'água."
+  },
+  "Chuva moderada por vezes": {
+    "pokemon": "Marill",
+    "descricao": "Uma chuva constante e moderada limpa o céu, enchendo os lagos e córregos da região. A água corre abundante pelos caminhos, criando o ambiente aquático ideal para a natação de Marill."
+  },
+  "Chuva moderada": {
+    "pokemon": "Marill",
+    "descricao": "Uma chuva constante e moderada limpa o céu, enchendo os lagos e córregos da região. A água corre abundante pelos caminhos, criando o ambiente aquático ideal para a natação de Marill."
+  },
+  "Chuva forte por vezes": {
+    "pokemon": "Gyarados",
+    "descricao": "A chuva cai com força intensa e rajadas de vento batem contra as janelas de tempos em tempos. O clima está violento e os mares ficam agitados, refletindo a fúria lendária de Gyarados."
+  },
+  "Chuva forte": {
+    "pokemon": "Gyarados",
+    "descricao": "A chuva cai com força intensa e rajadas de vento batem contra as janelas de tempos em tempos. O clima está violento e os mares ficam agitados, refletindo a fúria lendária de Gyarados."
+  },
+  "Chuva congelante fraca": {
+    "pokemon": "Sneasel",
+    "descricao": "Gotas de chuva congelante caem de forma fraca sob um céu cinza-chumbo, tornando as superfícies escorregadias e frias. É um clima traiçoeiro e sombrio, perfeito para as emboscadas de Sneasel."
+  },
+  "Chuva congelante moderada ou forte": {
+    "pokemon": "Mamoswine",
+    "descricao": "Uma combinação rigorosa de chuva torrencial congelante e vento gelado cria uma crosta espessa de gelo e lama no solo. O ambiente hostil desafia até a resiliência de grandes criaturas como Mamoswine."
+  },
+  "Aguanieve fraca": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Aguanieve moderada ou forte": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Neve fraca irregular": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Neve fraca": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Neve moderada irregular": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Neve moderada": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Neve forte irregular": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Neve forte": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Pelotas de gelo": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Chuva passageira fraca": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Chuva passageira moderada ou forte": {
+    "pokemon": "Castform",
+    "descricao": "O clima instável traz pancadas de chuva passageiras que vêm e vão rapidamente, alternando o ambiente entre molhado e seco. É o cenário perfeito para as mudanças de forma de Castform."
+  },
+  "Chuva torrencial": {
+    "pokemon": "Swampert",
+    "descricao": "Uma chuva torrencial e devastadora inunda as planícies com uma força avassaladora em poucos minutos. O solo se transforma em lama densa, ambiente perfeito para a força bruta de Swampert."
+  },
+  "Pancadas de aguanieve fraca": {
+    "pokemon": "Lapras",
+    "descricao": "Uma mistura fria de chuva e neve derretida cai de forma passageira nas redondezas, deixando o ar úmido e gelado. O clima calmo convida Lapras a nadar tranquilamente perto da costa."
+  },
+  "Pancadas de aguanieve moderadas ou fortes": {
+    "pokemon": "Lapras",
+    "descricao": "Uma mistura fria de chuva e neve derretida cai de forma passageira nas redondezas, deixando o ar úmido e gelado. O clima calmo convida Lapras a nadar tranquilamente perto da costa."
+  },
+  "Pancadas de neve fraca": {
+    "pokemon": "Cubchoo",
+    "descricao": "Pancadas de neve leves e rápidas cobrem temporariamente o chão antes de derreterem, criando um ambiente divertido e gelado. É o clima que faz o nariz de Cubchoo escorrer de frio."
+  },
+  "Pancadas de neve moderadas ou fortes": {
+    "pokemon": "Cubchoo",
+    "descricao": "Pancadas de neve leves e rápidas cobrem temporariamente o chão antes de derreterem, criando um ambiente divertido e gelado. É o clima que faz o nariz de Cubchoo escorrer de frio."
+  },
+  "Pancadas fracas de granizo miúdo": {
+    "pokemon": "Aurorus",
+    "descricao": "Pedras de gelo caem do céu de forma repentina, emitindo sons cristalinos ao colidirem com o solo. Sob o brilho do gelo, o clima severo ganha um aspecto cintilante digno de Aurorus."
+  },
+  "Pancadas moderadas ou fortes de granizo miúdo": {
+    "pokemon": "Aurorus",
+    "descricao": "Pedras de gelo caem do céu de forma repentina, emitindo sons cristalinos ao colidirem com o solo. Sob o brilho do gelo, o clima severo ganha um aspecto cintilante digno de Aurorus."
+  },
+  "Chuva fraca irregular com trovoada": {
+    "pokemon": "Squirtle",
+    "descricao": "Uma chuva fina e constante cai suavemente sobre a grama, refrescando o calor e limpando a atmosfera. É o tipo de dia que renova as energias e convida Squirtle para brincar nas poças d'água."
+  },
+  "Chuva moderada ou forte com trovoada": {
+    "pokemon": "Marill",
+    "descricao": "Uma chuva constante e moderada limpa o céu, enchendo os lagos e córregos da região. A água corre abundante pelos caminhos, criando o ambiente aquático ideal para a natação de Marill."
+  },
+  "Neve fraca irregular com trovoada": {
+    "pokemon": "Zapdos",
+    "descricao": "Uma violenta tempestade de chuva forte com relâmpagos e trovões ensurdecedores rasga o céu escuro. A atmosfera está carregada de pura energia elétrica, como se Zapdos estivesse sobrevoando as nuvens."
+  },
+  "Neve moderada ou forte com trovoada": {
+    "pokemon": "Zapdos",
+    "descricao": "Uma violenta tempestade de chuva forte com relâmpagos e trovões ensurdecedores rasga o céu escuro. A atmosfera está carregada de pura energia elétrica, como se Zapdos estivesse sobrevoando as nuvens."
+  }
+}
