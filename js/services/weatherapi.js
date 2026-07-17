@@ -1,6 +1,6 @@
 import { searchCep } from "./viacep.js"
 
-const API_KEY = '61de2bea1c284646a9e42800260507'
+const API_KEY = ''
 
 export async function searchWeather(cep) {
     const adress = await searchCep(cep)
